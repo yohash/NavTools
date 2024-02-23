@@ -1,6 +1,6 @@
 {
   "name": "com.yohash.navtools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Navigation Tools",
   "description": "A collection of tools, data structures, and interfaces to support other works.",
   "unity": "2019.1",
